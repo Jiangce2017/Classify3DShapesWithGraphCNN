@@ -20,12 +20,12 @@ https://drive.google.com/drive/folders/1iVJg94jKGofOjD16yIGvcRprakzduALV?usp=sha
 
 You should have the following directory structure:
 
--shape_classification
--- dataset
---- ModelNeet10
--- codes
--- checkpoints
--- results
+shape_classification
+* dataset
+   * ModelNet10
+* codes
+* checkpoints
+* results
 
 # run codes
 ** Train **
